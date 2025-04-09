@@ -1,5 +1,5 @@
 import { RevealOnScroll } from "../RevealOnScroll";
-import luffy from '../../assets/luffy.jpg';
+import luffy from '/../assets/luffy.jpg';
 export const Home = () => {
   const aboutMe = [
     "Financial Analyst", 
