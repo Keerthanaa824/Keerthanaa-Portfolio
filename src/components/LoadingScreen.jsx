@@ -3,7 +3,7 @@ import Stars from '../assets/stars.jpg';
 
 export const LoadingScreen = ({ onComplete }) => {
   const [text, setText] = useState("");
-  const fullText = "<A big part of financial freedom is having your heart and mind free from worry about the what-ifs of lie : Suze Orman />";
+  const fullText = "<Motivated and detail-oriented Financial Analyst with a Master’s degree in Finance and 2 years of hands-on experience in financial modeling, budgeting, and performance analysis. Skilled in leveraging data to support strategic decision-making and improve financial outcomes. Proficient in Excel, SQL, and financial reporting tools like Power BI and SAP. Strong communication skills with the ability to present complex financial data to both technical and non-technical stakeholders. Eager to contribute analytical expertise to a forward-thinking finance team. />";
 
   useEffect(() => {
     let index = 0;
