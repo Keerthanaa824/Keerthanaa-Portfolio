@@ -35,7 +35,7 @@ export const Projects = () => {
 
             {/* Project 2: Portfolio Performance Analysis */}
             <div className="glass p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_4px_20px_rgba(59,130,246,0.1)] transition-all">
-              <h3 className="text-xl font-bold mb-2">Portfolio Performance Analysis</h3>
+              <h3 className="text-xl font-bold mb-2">AI: Riding the bubble or wave? : Market Analysis</h3>
               <p className="text-gray-400 mb-4">
                 Constructed and analyzed a 20-security portfolio surpassing the benchmark by 4%, demonstrating strategic asset allocation.
               </p>
